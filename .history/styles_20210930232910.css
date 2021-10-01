@@ -1,0 +1,19 @@
+:root{
+  --tiC: #F55F4B;
+  --txC: #29303B;
+  --lC: #4B8FF5;
+  --bgC: #EDF4FF;
+  --bg2C: #88EFF9;
+}
+
+body {
+  background-color: var(--bgC);
+}
+
+h1,h2, h3, h4, h5, h6{
+  color: var(--tiC);
+}
+
+p {
+  color: var(--txC);
+}

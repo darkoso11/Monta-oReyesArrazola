@@ -1,0 +1,15 @@
+:root{
+  --tC: #F55F4B;
+  --tC: #29303B;
+  --lC: #4B8FF5;
+  --bgC: #EDF4FF;
+  --bg2C: #88EFF9;
+}
+
+body {
+  background-color: var(--bgC);
+}
+
+p {
+  color: var(--tC);
+}
